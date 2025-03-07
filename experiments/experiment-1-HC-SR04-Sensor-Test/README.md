@@ -46,7 +46,7 @@ In this experiment I was testing the HC-SR04 Ultrasonic Sensor. The goal of this
 
 
 ### 💻 Code
-[Link to the code page](/experiments/experiment-1/UltraSonicSensorTestCode/UltraSonicSensorTestCode.ino)
+[Link to the code page](/experiments/experiment-1-HC-SR04-Sensor-Test/UltraSonicSensorTestCode/UltraSonicSensorTestCode.ino)
 
 The code is very simple. It uses the ultrasonic sensor to detect if an object is within 10cm distance and if it is, the LED lights up.
 
