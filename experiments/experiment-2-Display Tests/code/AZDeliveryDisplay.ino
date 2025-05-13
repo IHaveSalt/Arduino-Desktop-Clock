@@ -11,12 +11,12 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 
 void setup() {
-  // Initialize display with I2C address 0x3C
+  // Initialise display with I2C address 0x3C
   if (!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) {
     for (;;);
   }
 
-  // Initialize and display a message
+  // Initialise and display a message
   display.clearDisplay();
   display.setTextSize(1);
   display.setTextColor(SSD1306_WHITE);
