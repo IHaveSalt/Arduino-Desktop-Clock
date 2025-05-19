@@ -24,8 +24,19 @@ Arduino Uno R3, breadboard mini, couple LEDs and resistors, and a bunch of other
 - [**LEDs**](https://www.amazon.co.uk/dp/B0CXDS8LDL)
 - [**Multimeter**](https://www.amazon.co.uk/dp/B01ISAMUA6)
 
-
 #### Non functional and not used components:
 - [**DollaTek LCD Display**](https://www.amazon.co.uk/dp/B07QFVBLDS)
 - [**Hailege LCD Touch Display**](https://www.amazon.co.uk/ILI9341-Screen-Display-Arduino-Raspberry/dp/B07YTWRZGR)
 - [**Capacitors**](https://www.amazon.co.uk/dp/B0711SCBPQ)
+
+
+## 📚 References and Sources
+[Arduino documentation](https://docs.arduino.cc/)
+
+[Bounce2 library GitHub](https://github.com/thomasfredericks/Bounce2)
+
+[Adafruit SSD1306 library](https://github.com/adafruit/Adafruit_SSD1306)
+
+[RTClib library](https://github.com/adafruit/RTClib)
+
+[Fusion 360 Beginner Guide](https://youtu.be/Izh99EnGLGw?si=5UzBfU27Qrr-Dr9G)
